@@ -7,7 +7,7 @@ desarrollo personal y profesional.
 
 Skills: Pronto, cargando...
 
-- 🔭 I’m currently working on This page 
+- 🔭 I’m currently working on This page. 
 - 🌱 I’m currently learning : Desarrollo web y otras cositas mas 
 
 
